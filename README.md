@@ -9,6 +9,7 @@ Basic usage: python3 main.py urls.txt xssworldist.txt
 note: powered with CGPT
 
 İnstall :  1.git clone https://github.com/kacakb/seleniumxssChecker.git
+
            2.Run -- >  python3 main.py urls.txt xsswordlist.txt
 
 note: You can update the xss wordlist according to your requirements. In the urls.txt, enter the parameters of your scope, for example https://redacted.com/?q=FUZZ
