@@ -10,6 +10,6 @@ note: powered with CGPT
 
 İnstall :  git clone https://github.com/kacakb/seleniumxssChecker.git
 
-           python3 main.py urls.txt xsswordlist.txt
+           python3 main.py urls.txt xssworldist.txt -r 10
 
 note: You can update the xss wordlist according to your requirements. In the urls.txt, enter the parameters of your scope, for example https://redacted.com/?q=FUZZ
