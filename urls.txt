@@ -1,0 +1,3 @@
+For Example: python3 paramspider.py --domain redacted.com >> urls.txt
+
+Note:You can use different tools to find parameters like unfurl
