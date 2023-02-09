@@ -1,0 +1,5 @@
+"><script>alert(1);</script>
+'"><img src=x onerror=alert(1)>
+%27%22%3E%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E
+%27%22%3E%3Cimg+src%3Dx+onerror%3Dalert(1)%3E
+
