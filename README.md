@@ -6,4 +6,6 @@ Basic usage: python3 main.py urls.txt xssworldist.txt
 
 
 
-note: powered by ChatGPT
+note: powered with CGPT
+
+İnstall : 
