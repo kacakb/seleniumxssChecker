@@ -1,3 +1,15 @@
-For Example: python3 paramspider.py --domain redacted.com >> urls.txt
+//For Example: python3 paramspider.py --domain redacted.com >> urls.txt
 
-Note:You can use different tools to find parameters like unfurl
+//Note:You can use different tools to find parameters like unfurl
+
+
+http://testphp.vulnweb.com:80/product.php?pic=FUZZ
+http://testphp.vulnweb.com/search.php?test=FUZZ
+http://testphp.vulnweb.com:80/bxss/vuln.php?id=FUZZ
+http://testphp.vulnweb.com/showimage.php?file=FUZZ
+http://testphp.vulnweb.com:80/hpp/index.php?pp=FUZZ
+http://testphp.vulnweb.com/hpp/params.php?p=FUZZ
+http://testphp.vulnweb.com/artist.php?artist=FUZZ
+http://testphp.vulnweb.com:80/listproducts.php?cat=FUZZ
+http://testphp.vulnweb.com:80/secured/phpinfo.php?=FUZZ
+
