@@ -10,7 +10,9 @@ Install
            
 Basic Usage
 
-           
+           python3 paramspider.py --domain redacted.com
+           cat /out/redacted |gf xss >>potentialxssParameter.txt
+           mv potentialxssParameter.txt urls.txt
            python3 main.py urls.txt xssworldist.txt -r 10
 
 note: You can update the xss wordlist according to your requirements. In the urls.txt, enter the parameters of your scope, for example https://redacted.com/?q=FUZZ
