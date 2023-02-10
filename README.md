@@ -9,6 +9,7 @@ Basic usage: python3 main.py urls.txt xssworldist.txt
 note: powered with CGPT
 
 İnstall 
+
 git clone github.com/kacakb/seleniumxssChecker.git
 
            python3 main.py urls.txt xssworldist.txt -r 10
