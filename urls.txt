@@ -4,7 +4,7 @@ http://testphp.vulnweb.com:80/bxss/vuln.php?id=FUZZ
 http://testphp.vulnweb.com/showimage.php?file=FUZZ
 http://testphp.vulnweb.com:80/hpp/index.php?pp=FUZZ
 http://testphp.vulnweb.com/hpp/params.php?p=FUZZ
-http://testphp.vulnweb.com/artist.php?artist=FUZZ
+http://testphp.vulnweb.com/artist.php?artist=FUZZ<
 http://testphp.vulnweb.com:80/listproducts.php?cat=FUZZ
 http://testphp.vulnweb.com:80/secured/phpinfo.php?=FUZZ
 
